@@ -1,0 +1,15 @@
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/rails_tutorial_2/toy_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+/Users/tomoyuki./.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20200702-74737-ff221a.rb extconf.rb
+creating Makefile
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/rails_tutorial_2/toy_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/rails_tutorial_2/toy_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/tomoyuki./dev/go/src/github.com/tomoyukikino/rails_tutorial_2/toy_app/vendor/bundle/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20200702-74737-1vt6im2/skiptrace/internal
